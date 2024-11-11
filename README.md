@@ -1,4 +1,4 @@
-# Med---Chatbot-using-biomistral:
+# Med-Chatbot:
 ## Title of the Project:
 AI-Driven Personalized Medical Chatbot for Health Consultations
 
